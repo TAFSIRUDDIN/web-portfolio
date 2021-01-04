@@ -17,7 +17,7 @@ h1{
     padding-left: 2%;
 }
 .half-width img{
-    width: 83%;
+    width: 100%;
 }
 p{
     color: dimgray;
@@ -27,7 +27,9 @@ p{
     background-repeat: no-repeat;
 }
 section{
-height: 500px;}
+height: 500px;
+float: left;
+}
 .link-button{
     text-decoration: none;
     padding: 10px 20px;
@@ -64,4 +66,7 @@ height: 500px;}
 }
 footer p{
     text-align: center;
+}
+.topu{
+    
 }
